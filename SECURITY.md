@@ -22,4 +22,4 @@ Impact of the issue, including how an attacker might exploit the issue
 This information will help us triage your report more quickly.
 
 Policy
-See GitHub's Safe Harbor Policy
+Added more security policy information here, email secpol@rosshickey.com addition words go here
